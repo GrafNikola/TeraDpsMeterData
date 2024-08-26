@@ -1134,12 +1134,12 @@
 204004	Valkyon Federation
 204501	Looking For Group
 204800	Joined a group
-205001	Dedicated TERA Player!
-205002	Recognized as a dedicated TERA player
-205003	Recognized as a dedicated TERA player
+205001	Dedicated MT Dream Player!
+205002	Recognized as a dedicated MT Dream player
+205003	Recognized as a dedicated MT Dream player
 205004	Valkyon Federation
 205501	Model Citizen
-205800	Recognized as a dedicated TERA player
+205800	Recognized as a dedicated MT Dream player
 206001	100 Bosses
 206002	Killed 100 world bosses.
 206003	Killed 100 world bosses.
@@ -2765,9 +2765,9 @@
 448003	Won 100 times in Fraywind Canyon.
 448004	Valkyon Federation
 448800	Wins in Fraywind Canyon:
-449001	Fraywind Five Hundred
-449002	Won 500 times in Fraywind Canyon.
-449003	Won 500 times in Fraywind Canyon.
+449001	Fraywind King
+449002	Won 250 times in Fraywind Canyon.
+449003	Won 250 times in Fraywind Canyon.
 449004	Valkyon Federation
 449501	Windjammer
 449800	Wins in Fraywind Canyon:
@@ -2955,11 +2955,11 @@
 481501	Ice
 481800	Snowball fights won:
 482001	Beat the Rush
-482002	Experienced TERA before TERA: Rising.
-482003	Experienced TERA before TERA: Rising.
+482002	Experienced MT Dream before TERA: Rising.
+482003	Experienced MT Dream before TERA: Rising.
 482004	Valkyon Federation
 482501	Founder
-482800	Experienced TERA before TERA: Rising.
+482800	Experienced MT Dream before TERA: Rising.
 483001	Taking the Road Not Taken
 483002	Hunt Shandra Manaya in a group of 2
 483003	Hunt Shandra Manaya in a group of 2
@@ -3583,7 +3583,7 @@
 611003	Collect all the letters from TERA's 3rd Anniversary Festival.
 611004	Valkyon Federation
 611501	TERA Lover
-611800	Succeed in combining TERA 3rd Anniversary Festival heart item.
+611800	Succeed in combining MT Dream 3rd Anniversary Festival heart item.
 612001	Nico Nico 2015 Participant
 612002	Participated in Nico Nico 2015
 612003	Participated in Nico Nico 2015
@@ -4937,11 +4937,11 @@
 986004	Valkyon Federation
 986800	Toured Habere.
 987001	DlueHole Cheevos
-987002	Accomplish new achievements from the TERA Summer Update, and participate in the certification event through the MT: Dream Facebook page.
-987003	Accomplish new achievements from the TERA Summer Update, and participate in the certification event through the MT: Dream Facebook page.
+987002	Accomplish new achievements from the MT Dream Summer Update, and participate in the certification event through the MT: Dream Facebook page.
+987003	Accomplish new achievements from the MT Dream Summer Update, and participate in the certification event through the MT: Dream Facebook page.
 987004	Valkyon Federation
 987501	Master of Achievements
-987800	Accomplish new TERA Summer Update achievements, and participate in the MT: Dream Facebook event
+987800	Accomplish new MT Dream Summer Update achievements, and participate in the MT: Dream Facebook event
 988001	Bug Zapper
 988002	Defeat Nightmare Koleogg in Rift's Edge (Hard) 1 time.
 988003	Defeat Nightmare Koleogg in Rift's Edge (Hard) 1 time.
@@ -4960,16 +4960,16 @@
 991001	Arc-Angel
 991002	Defeat Koleogg in Rift's Edge 1 time.
 991003	Defeat Koleogg in Rift's Edge 1 time.
-991800	Defeat Koleogg in Rift's Edge at least 1 time.
+991800	Defeat Koleogg in Rift's Edge 1 time.
 992001	More Where That Came From
 992002	Defeat Koleogg in Rift's Edge 30 times.
 992003	Defeat Koleogg in Rift's Edge 30 times.
-992800	Defeat Koleogg in Rift's Edge (Hard) at least 30 times.
+992800	Defeat Koleogg in Rift's Edge 30 times.
 993001	Beetlemania
 993002	Defeat Koleogg in Rift's Edge 50 times.
 993003	Defeat Koleogg in Rift's Edge 50 times.
 993501	Beetle-Breaker
-993800	Defeat Koleogg in Rift's Edge (Hard) at least 50 times.
+993800	Defeat Koleogg in Rift's Edge 50 times.
 994001	Welcome to the Banquet
 994002	Complete the "Velika Banquet."
 994003	Complete the "Velika Banquet."
@@ -5030,10 +5030,14 @@
 999407	Kumas Royale
 999408	Exodor Dungeons
 999409	Training Dungeon
-999450	Battlegrounds
+999450	PvP & Battlegrounds
 999451	Shore Hold
 999452	Champion's Skyring
 999453	Fraywind Canyon
+999454	Gridiron
+999455	Blitz Barrage
+999456	Echoes of Argonea
+999457	Coastal Battleground
 999500	Extracurricular Activities
 999501	Enchanting
 999502	Gathering
@@ -7644,24 +7648,24 @@
 1971501	Chosen of Velik
 1971800	Force Nightmare Veldeg to destroy all explosive shards while above 50% HP
 1972001	Deicide
-1972002	Defeat Nightmare Lakan in Velik's Sanctuary (Hard).
-1972003	Defeat Nightmare Lakan in Velik's Sanctuary (Hard).
+1972002	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard).
+1972003	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard).
 1972004	Valkyon Federation
-1972800	Defeat Nightmare Lakan in Velik's Sanctuary (Hard).
+1972800	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard).
 1973001	Deca-Deicide
-1973002	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) 10 times.
-1973003	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) 10 times.
+1973002	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) 10 times.
+1973003	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) 10 times.
 1973004	Valkyon Federation
-1973800	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) 10 times
+1973800	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) 10 times
 1974001	Trail of Dead Gods
-1974002	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) 77 times.
-1974003	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) 77 times.
+1974002	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) 77 times.
+1974003	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) 77 times.
 1974004	Valkyon Federation
 1974501	Velik's Champion
-1974800	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) 77 times
+1974800	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) 77 times
 1975001	Overcoming Hurdles
-1975002	Defeat Nightmare Lakan without being hit in Velik's Sanctuary (Hard) as Lakan enters or exits Soul World.
-1975003	Defeat Nightmare Lakan without being hit in Velik's Sanctuary (Hard) as Lakan enters or exits Soul World.
+1975002	Defeat Nightmare Lakan without being hit in Sanctuary’s Ruins (Hard) as Lakan enters or exits Soul World.
+1975003	Defeat Nightmare Lakan without being hit in Sanctuary’s Ruins (Hard) as Lakan enters or exits Soul World.
 1975004	Valkyon Federation
 1975800	Defeat Nightmare Lakan without being hit as he enters or exits Soul World
 1976001	Per Tenebras
@@ -7680,10 +7684,10 @@
 1979004	Valkyon Federation
 1979800	Take no damage from 'Burn to ashes!'
 1980001	Ungodly Luck
-1980002	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) without dying once.
-1980003	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) without dying once.
+1980002	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) without dying once.
+1980003	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) without dying once.
 1980004	Valkyon Federation
-1980800	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) without dying
+1980800	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) without dying
 1981001	Godslayer
 1981002	Completed the achievements listed below:
 1981003	Completed the achievements listed below:
@@ -7789,10 +7793,10 @@
 2010004	Valkyon Federation
 2010800	Defeat Birchback without taking damage from the Push and Smash attack.
 2011001	Anger Management
-2011002	Defeat Lehnym in Thaumetal Refinery without being hit by a rock.
-2011003	Defeat Lehnym in Thaumetal Refinery without being hit by a rock.
+2011002	Defeat Lenim in Thaumetal Refinery without being hit by a rock.
+2011003	Defeat Lenim in Thaumetal Refinery without being hit by a rock.
 2011004	Valkyon Federation
-2011800	Defeated Lehnym without being hit by a rock.
+2011800	Defeated Lenim without being hit by a rock.
 2012001	We Are Never Ever Ever...
 2012002	Defeat Gaaruksalk in Thaumetal Refinery without taking damage from the Iron Mace Smash and Pull attack.
 2012003	Defeat Gaaruksalk in Thaumetal Refinery without taking damage from the Iron Mace Smash and Pull attack.
@@ -7831,10 +7835,10 @@
 2018004	Valkyon Federation
 2018800	Defeat Nightmare Birchback within 5 minutes.
 2019001	Beamless
-2019002	Defeat Nightmare Lehnym in Thaumetal Refinery (Hard) without taking damage from the red or blue beam attack.
-2019003	Defeat Nightmare Lehnym in Thaumetal Refinery (Hard) without taking damage from the red or blue beam attack.
+2019002	Defeat Nightmare Lenim in Thaumetal Refinery (Hard) without taking damage from the red or blue beam attack.
+2019003	Defeat Nightmare Lenim in Thaumetal Refinery (Hard) without taking damage from the red or blue beam attack.
 2019004	Valkyon Federation
-2019800	Defeat Nightmare Lehnym without taking damage from ore attacks.
+2019800	Defeat Nightmare Lenim without taking damage from ore attacks.
 2020001	Quick Kills
 2020002	Defeat Nightmare Gaaruksalk in Thaumetal Refinery (Hard) within 6 minutes.
 2020003	Defeat Nightmare Gaaruksalk in Thaumetal Refinery (Hard) within 6 minutes.
@@ -8240,27 +8244,27 @@
 2094004	Valkyon Federation
 2094800	Defeat Nightmare Harnovog in Dark Reach Citadel (Hard) 20 times.
 2095001	Catch Your Breath
-2095002	Defeat Bahaar in Bahaar's Sanctum without dying.
-2095003	Defeat Bahaar in Bahaar's Sanctum without dying.
+2095002	Defeat Bahaar in Frozen Bahaar's Sanctum without dying.
+2095003	Defeat Bahaar in Frozen Bahaar's Sanctum without dying.
 2095004	Valkyon Federation
-2095800	Defeat Bahaar in Bahaar's Sanctum without dying
+2095800	Defeat Bahaar in Frozen Bahaar's Sanctum without dying
 2096001	Niche Market
-2096002	Defeat Bahaar in Bahaar's Sanctum without getting hit by Pounding Rage.
-2096003	Defeat Bahaar in Bahaar's Sanctum without getting hit by Pounding Rage.
+2096002	Defeat Bahaar in Frozen Bahaar's Sanctum without getting hit by Pounding Rage.
+2096003	Defeat Bahaar in Frozen Bahaar's Sanctum without getting hit by Pounding Rage.
 2096004	Valkyon Federation
 2096800	Defeat Bahaar without getting hit by Pounding Rage
 2097001	Rise the Fallen
-2097002	Defeat Bahaar in Bahaar's Sanctum 50 times.
-2097003	Defeat Bahaar in Bahaar's Sanctum 50 times.
+2097002	Defeat Bahaar in Frozen Bahaar's Sanctum 50 times.
+2097003	Defeat Bahaar in Frozen Bahaar's Sanctum 50 times.
 2097004	Valkyon Federation
 2097501	Purifier
-2097800	Defeat Bahaar in Bahaar's Sanctum 50 times
+2097800	Defeat Bahaar in Frozen Bahaar's Sanctum 50 times
 2098001	The Legend Begins
-2098002	Server's first to defeat Bahaar in Bahaar's Sanctum.
-2098003	Server's first to defeat Bahaar in Bahaar's Sanctum.
+2098002	Server's first to defeat Bahaar in Frozen Bahaar's Sanctum.
+2098003	Server's first to defeat Bahaar in Frozen Bahaar's Sanctum.
 2098004	Valkyon Federation
 2098501	Legendary
-2098800	Server's first to defeat Bahaar in Bahaar's Sanctum
+2098800	Server's first to defeat Bahaar in Frozen Bahaar's Sanctum
 2099001	I Wanna Be the Very Best!
 2099002	[Ace Dungeon] Defeated Lilith in Lilith's Trial.
 2099003	[Ace Dungeon] Defeated Lilith in Lilith's Trial.
@@ -10263,32 +10267,32 @@
 99117002	1st place in the current season
 99117003	1st place in the current season
 99117004	Valkyon Federation
-99117501	Evil Dragon Butcher
+99117501	Storm Breaker
 99118001	PvE Leaderboard Rewards Grotto of Lost Souls (Hard) 2nd, 3rd Place (BTS)
 99118002	2nd, 3rd place in the current season
 99118003	2nd, 3rd place in the current season
 99118004	Valkyon Federation
-99118501	Confronted Evil Dragon
-99119001	PvE Leaderboard Rewards Bahaar's Sanctum 1st Place (BTS)
+99118501	Lightning Rod
+99119001	PvE Leaderboard Rewards Frozen Bahaar's Sanctum 1st Place (BTS)
 99119002	1st place in the current season
 99119003	1st place in the current season
 99119004	Valkyon Federation
-99119501	Sulfurous Savior
-99120001	PvE Leaderboard Rewards Bahaar's Sanctum 2nd, 3rd Place (BTS)
+99119501	Master of Permafrost
+99120001	PvE Leaderboard Rewards Frozen Bahaar's Sanctum 2nd, 3rd Place (BTS)
 99120002	2nd, 3rd place in the current season
 99120003	2nd, 3rd place in the current season
 99120004	Valkyon Federation
-99120501	Fire Lord's Envoy
+99120501	Harbinger of Frost
 99121001	PvE Leaderboard Rewards Gossamer Vault (Hard) 1st Place (BTS)
 99121002	1st place in the current season
 99121003	1st place in the current season
 99121004	Valkyon Federation
-99121501	Holy Wings
+99121501	Murderwing Master
 99122001	PvE Leaderboard Rewards Gossamer Vault (Hard) 2nd, 3rd Place (BTS)
 99122002	2nd or 3rd place in the current season
 99122003	2nd or 3rd place in the current season
 99122004	Valkyon Federation
-99122501	Luminous Wings
+99122501	Amber Annihilator
 99123001	PvE Leaderboard Rewards Corrupted Skynest (Hard) 1st Place (If shown, BTS)
 99123002	1st place in the current season
 99123003	1st place in the current season
@@ -10929,16 +10933,16 @@
 540022003	2nd or 3rd place in the current season
 540022004	Valkyon Federation
 540022005	Bloodshard Apprentice
-540023001	PvE Leaderboard Rewards Velik's Sanctuary (Hard) 1st Place
+540023001	PvE Leaderboard Rewards Sanctuary’s Ruins (Hard) 1st Place
 540023002	1st place in the current season
 540023003	1st place in the current season
 540023004	Valkyon Federation
-540023005	Greedier than the Avaricious
-540024001	PvE Leaderboard Rewards Velik's Sanctuary (Hard) 2nd, 3rd Place
+540023005	Godsbane
+540024001	PvE Leaderboard Rewards Sanctuary’s Ruins (Hard) 2nd, 3rd Place
 540024002	2nd or 3rd place in the current season
 540024003	2nd or 3rd place in the current season
 540024004	Valkyon Federation
-540024005	Pursuer of Greed
+540024005	Keeper of the Sanctuary
 540030001	Pulling Back the Veil
 540030002	Defeat Hagufna in the Forbidden Arena within 4 minutes.
 540030003	Defeat Hagufna in the Forbidden Arena within 4 minutes.
@@ -11141,6 +11145,21 @@
 550009002	Won 50 times in Shore Hold.
 550009003	Won 50 times in Shore Hold.
 550009004	Valkyon Federation
+550009401	Winner of Menma's Summer Art Contest
+550009402	Awarded to the 1st Place of Menma's Summer Art Contest 2023!
+550009403	Awarded to the 1st Place of Menma's Summer Art Contest 2023!
+550009404	Placed 1st in Menma's Art Contest
+550009405	Summer Art Contest Winner 2023
+550009501	Winner of Fraywind Canyon Competition
+550009502	Awarded to the 1st Place of Fraywind Canyon Competition!
+550009503	Awarded to the 1st Place of Fraywind Canyon Competition!
+550009504	Placed 1st in Fraywind Canyon Competition
+550009505	Season 1 Canyon Conqueror
+550009601	Runners-up of Fraywind Canyon Competition
+550009602	Awarded to the 2nd and 3rd Place of Fraywind Canyon Competition!
+550009603	Awarded to the 2nd and 3rd of Fraywind Canyon Competition!
+550009604	Placed 2nd or 3rd in Fraywind Canyon Competition
+550009605	Season 1 Canyon Challenger
 550010001	Beach Blitzkrieg
 550010002	Won 150 times in Shore Hold.
 550010003	Won 150 times in Shore Hold.
@@ -11199,7 +11218,7 @@
 550022002	Awarded to the 1st Place of Menma's Screenshot Contest 2022!
 550022003	Awarded to the 1st Place of Menma's Screenshot Contest 2022!
 550022004	Placed 1st in Menma's Screenshot Contest
-550022005	2023 Contest Winner
+550022005	2022 Contest Winner
 550023001	Black Pearl
 550023002	Use the Black Pearl Title Token.
 550023003	Use the Black Pearl Title Token.
@@ -11430,7 +11449,7 @@
 550061004	Valkyon Federation
 550061800	Taste of the Inferno
 550061805	Witness to the Inferno
-550062001	Cleared Spring of Arun
+550062001	Cleared Baldera Ponds
 550062002	Acquired the items listed below:
 550062003	Acquired the items listed below:
 550062004	Valkyon Federation
@@ -11440,7 +11459,7 @@
 550062802	Spring Marlin
 550062803	Stream Catfish
 550062804	Vibrant Koi
-550063001	Cleared Spring of Arun!
+550063001	Cleared Baldera Ponds!
 550063002	Acquired the items listed below:
 550063003	Acquired the items listed below:
 550063004	Valkyon Federation
@@ -11479,7 +11498,7 @@
 550066803	Cleared Muricai Fishery
 550066804	Cleared Seren’s Lake Fishery
 550066805	Cleared Vexatus Swamp Fishery
-550066806	Cleared Spring of Arun
+550066806	Cleared Baldera Ponds
 550066807	Cleaned Highwatch Pond!
 550066808	Cleaned Balderon Pond!
 550066809	Cleaned Spring of Arun!
@@ -11490,21 +11509,21 @@
 550067800	The USDA Wouldn't Like This
 550067805	Caution! May Combust!
 550068001	Fight or Flight
-550068002	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) in 5 minutes or less.
-550068003	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) in 5 minutes or less.
+550068002	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) in 6 minutes 30 seconds or less.
+550068003	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) in 6 minutes 30 seconds or less.
 550068004	Valkyon Federation
-550068800	Defeat Nightmare Lakan in 5 minutes or less
+550068800	Defeat Nightmare Lakan in 6 minutes 30 seconds or less
 550069001	Ungodly Luck
-550069002	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) without dying once.
-550069003	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) without dying once.
+550069002	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) without dying once.
+550069003	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) without dying once.
 550069004	Valkyon Federation
-550069800	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) without dying
+550069800	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) without dying
 550070001	Trail of Dead Gods
-550070002	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) 100 times.
-550070003	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) 100 times.
+550070002	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) 100 times.
+550070003	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) 100 times.
 550070004	Valkyon Federation
 550070501	Velik's Champion
-550070800	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) 100 times
+550070800	Defeat Nightmare Lakan in Sanctuary’s Ruins (Hard) 100 times
 550071001	Godslayer
 550071002	Completed the achievements listed below:
 550071003	Completed the achievements listed below:
@@ -11520,6 +11539,584 @@
 550072003	Use the Summer Festival Title Token.
 550072004	Valkyon Federation
 550072005	Hotter than the Fire Lord
+550073001	Crashing the.. Party?
+550073002	Participate in the Bloody Dawn Event and use the Bloody Dawn Title Token.
+550073003	Use the Bloody Dawn Title Token.
+550073004	Valkyon Federation
+550073005	Fun at Parties
+550074001	Into the Dream
+550074002	Defeat Lumikan in Lumikan's Dream.
+550074003	Defeat Lumikan in Lumikan's Dream.
+550074800	Lumikan
+550075001	Phew, Defeated!
+550075002	Defeat Lumikan 10 times in Lumikan's Dream.
+550075003	Defeat Lumikan 10 times in Lumikan's Dream.
+550075800	Lumikan
+550076001	Almost There!
+550076002	Defeat Lumikan 30 times in Lumikan's Dream.
+550076003	Defeat Lumikan 30 times in Lumikan's Dream.
+550076800	Lumikan
+550077001	End of the Dream
+550077002	Defeat Lumikan 50 times in Lumikan's Dream.
+550077003	Defeat Lumikan 50 times in Lumikan's Dream.
+550077005	Dreamer
+550077800	Lumikan
+550078001	Are You Invincible?
+550078002	Defeat Lumikan in Lumikan's Dream without dying.
+550078003	Defeat Lumikan in Lumikan's Dream without dying.
+550078005	Defeat Lumikan in Lumikan's Dream without dying
+550079001	Into the Endless Nightmare
+550079002	Defeat Nightmare Lumikan in Lumikan's Dream (Hard).
+550079003	Defeat Nightmare Lumikan in Lumikan's Dream (Hard).
+550079800	Nightmare Lumikan
+550080001	Waking Dream
+550080002	Defeat Nightmare Lumikan 10 times in Lumikan's Dream (Hard).
+550080003	Defeat Nightmare Lumikan 10 times in Lumikan's Dream (Hard).
+550080800	Nightmare Lumikan
+550081001	Waking Up In a Nightmare
+550081002	Defeat Nightmare Lumikan 30 times in Lumikan's Dream (Hard).
+550081003	Defeat Nightmare Lumikan 30 times in Lumikan's Dream (Hard).
+550081005	Daydreaming
+550081800	Nightmare Lumikan
+550082001	The Start of a New Dream
+550082002	Defeat Nightmare Lumikan 50 times in Lumikan's Dream (Hard).
+550082003	Defeat Nightmare Lumikan 50 times in Lumikan's Dream (Hard).
+550082005	Lunatic
+550082800	Nightmare Lumikan
+550083001	Pure Skill
+550083002	Defeat Nightmare Lumikan in Lumikan's Dream (Hard) without dying.
+550083003	Defeat Nightmare Lumikan in Lumikan's Dream (Hard) without dying.
+550083005	Defeat Nightmare Lumikan in Lumikan's Dream (Hard) without dying
+550084001	Wake Up at the Next Station
+550084002	Defeat Nightmare Lumikan within 7 minutes in Lumikan's Dream (Hard).
+550084003	Defeat Nightmare Lumikan within 7 minutes in Lumikan's Dream (Hard).
+550084800	Defeat Nightmare Lumikan within 7 minutes in Lumikan's Dream (Hard)
+550085001	Dream Within a Dream
+550085002	Completed the achievements listed below:
+550085003	Completed the achievements listed below:
+550085800	The Start of a New Dream
+550085801	Pure Skill
+550085802	Wake Up at the Next Station
+550085805	Lucid Dreaming
+550086001	PvE Leaderboard Rewards Lumikan's Dream (Hard) 1st Place
+550086002	1st place in the current season
+550086003	1st place in the current season
+550086004	Valkyon Federation
+550086005	Saviour of the Dream
+550087001	PvE Leaderboard Rewards Lumikan's Dream (Hard) 2nd, 3rd Place
+550087002	2nd or 3rd place in the current season
+550087003	2nd or 3rd place in the current season
+550087004	Valkyon Federation
+550087005	Prophet of the Dream
+550088001	Pumpkin Smasher
+550088002	Defeat Gourdo 50 times in Harvest Festival Hall.
+550088003	Defeat Gourdo 50 times in Harvest Festival Hall.
+550088005	Sweet As Pie
+550088800	Gourdo
+550089001	The Candy Is Mine!
+550089002	Defeat Gourdo 100 times in Harvest Festival Hall.
+550089003	Defeat Gourdo 100 times in Harvest Festival Hall.
+550089005	Which Candy?
+550089800	Gourdo
+550090001	Spooky... Scary...
+550090002	Participate in the Halloween Event and use the Halloween Gala Title Token.
+550090003	Use the Halloween Gala Title Token.
+550090004	Valkyon Federation
+550090005	Too Spooky for You
+550091001	You've Done It.. But At What Cost?
+550091002	Defeat Clawrider the Training Simulacrum in Training Ground.
+550091003	Defeat Clawrider the Training Simulacrum in Training Ground.
+550091005	Clawrider the Training Simulacrum
+550091800	No-Lifer
+550092001	Hollow To The Bone
+550092002	Participate in the third Battle Pass and use the Executioner Title Token.
+550092003	Use the Executioner Title Token.
+550092004	Valkyon Federation
+550092005	Executioner
+550093001	Defender of Arborea
+550093002	Participate in the third Battle Pass and use the Defender of Arborea II Title Token.
+550093003	Use the Defender of Arborea II Title Token.
+550093004	Valkyon Federation
+550093005	Defender II
+550097001	Snowstorm on the Horizon
+550097002	Participate in the Winter Event and use the Slush Rush Title Token.
+550097003	Use the Slush Rush Title Token.
+550097004	Valkyon Federation
+550097005	Slush Rush
+550098001	Berserker's End
+550098002	Defeat Gardan in Killing Grounds.
+550098003	Defeat Gardan in Killing Grounds.
+550098800	Gardan
+550099001	One Big Axe to Grind
+550099002	Defeat Gardan 10 times in Killing Grounds.
+550099003	Defeat Gardan 10 times in Killing Grounds.
+550099800	Gardan
+550100001	Given the Chop
+550100002	Defeat Gardan 30 times in Killing Grounds.
+550100003	Defeat Gardan 30 times in Killing Grounds.
+550100800	Gardan
+550100805	Usurper
+550101001	Frigid Breeze
+550101002	Defeat Nightmare Gardan in Crimson Killing Grounds.
+550101003	Defeat Nightmare Gardan in Crimson Killing Grounds.
+550101800	Nightmare Gardan
+550102001	Executioner, Executed
+550102002	Defeat Nightmare Gardan 50 times in Crimson Killing Grounds.
+550102003	Defeat Nightmare Gardan 50 times in Crimson Killing Grounds.
+550102800	Nightmare Gardan
+550102805	Frozen Solid
+550103001	This Axe Can't Even Chop Wood!
+550103002	Defeat Nightmare Gardan in Crimson Killing Grounds without dying.
+550103003	Defeat Nightmare Gardan in Crimson Killing Grounds without dying.
+550103005	Defeat Nightmare Gardan in Crimson Killing Grounds without dying
+550104001	Endless Power is Overrated
+550104002	Defeat Nightmare Gardan within 6 minutes in Crimson Killing Grounds.
+550104003	Defeat Nightmare Gardan within 6 minutes in Crimson Killing Grounds.
+550104800	Defeat Nightmare Gardan within 6 minutes in Crimson Killing Grounds
+550105001	Down with the Tyrant!
+550105002	Completed the achievements listed below:
+550105003	Completed the achievements listed below:
+550105004	Valkyon Federation
+550105501	Tyrannicide
+550105800	Executioner, Executed
+550105801	This Axe Can't Even Chop Wood!
+550105802	Endless Power is Overrated
+550106001	PvE Leaderboard Rewards Crimson Killing Grounds 1st Place
+550106002	1st place in the current season
+550106003	1st place in the current season
+550106004	Valkyon Federation
+550106005	Cryo Champion
+550107001	PvE Leaderboard Rewards Crimson Killing Grounds 2nd, 3rd Place
+550107002	2nd or 3rd place in the current season
+550107003	2nd or 3rd place in the current season
+550107004	Valkyon Federation
+550107005	Glacial Guardian
+550108001	First Place on the Battleground Leaderboard - Blitz Barrage
+550108002	1st place in the current season
+550108003	1st place in the current season
+550108004	Valkyon Federation
+550108005	Blitz Barrage Grand Champion
+550109001	Place on the Battleground Leaderboard - Blitz Barrage
+550109002	2nd or 3rd place in the current season
+550109003	2nd or 3rd place in the current season
+550109004	Valkyon Federation
+550109005	Blitz Barrage Champion
+550110001	Death's Legionnaire
+550110002	Killed 100 players in Civil Unrest: Velika as a Priest.
+550110003	Killed 100 players in Civil Unrest: Velika as a Priest.
+550110004	Valkyon Federation
+550110501	Deadly Priest
+550111001	Death's Legionnaire
+550111002	Killed 50 players in Civil Unrest: Velika as a Mystic.
+550111003	Killed 50 players in Civil Unrest: Velika as a Mystic.
+550111004	Valkyon Federation
+550111501	Deadly Mystic
+550112001	Death's Legionnaire
+550112002	Killed 100 players in Civil Unrest: Velika as a Lancer.
+550112003	Killed 100 players in Civil Unrest: Velika as a Lancer.
+550112004	Valkyon Federation
+550112501	Deadly Lancer
+550113001	Death's Legionnaire
+550113002	Killed 100 players in Civil Unrest: Velika as a Brawler.
+550113003	Killed 100 players in Civil Unrest: Velika as a Brawler.
+550113004	Valkyon Federation
+550113501	Deadly Brawler
+550114001	Death's Legionnaire
+550114002	Killed 250 players in Civil Unrest: Velika as a Warrior.
+550114003	Killed 250 players in Civil Unrest: Velika as a Warrior.
+550114004	Valkyon Federation
+550114501	Deadly Warrior
+550115001	Death's Legionnaire
+550115002	Killed 250 players in Civil Unrest: Velika as a Slayer.
+550115003	Killed 250 players in Civil Unrest: Velika as a Slayer.
+550115004	Valkyon Federation
+550115501	Deadly Slayer
+550116001	Death's Legionnaire
+550116002	Killed 250 players in Civil Unrest: Velika as a Berserker.
+550116003	Killed 250 players in Civil Unrest: Velika as a Berserker.
+550116004	Valkyon Federation
+550116501	Deadly Berserker
+550117001	Death's Legionnaire
+550117002	Killed 250 players in Civil Unrest: Velika as an Archer.
+550117003	Killed 250 players in Civil Unrest: Velika as an Archer.
+550117004	Valkyon Federation
+550117501	Deadly Archer
+550118001	Death's Legionnaire
+550118002	Killed 250 players in Civil Unrest: Velika as a Sorcerer.
+550118003	Killed 250 players in Civil Unrest: Velika as a Sorcerer.
+550118004	Valkyon Federation
+550118501	Deadly Sorcerer
+550119001	Death's Legionnaire
+550119002	Killed 250 players in Civil Unrest: Velika as a Reaper.
+550119003	Killed 250 players in Civil Unrest: Velika as a Reaper.
+550119004	Valkyon Federation
+550119501	Deadly Reaper
+550120001	Death's Legionnaire
+550120002	Killed 250 players in Civil Unrest: Velika as a Gunner.
+550120003	Killed 250 players in Civil Unrest: Velika as a Gunner.
+550120004	Valkyon Federation
+550120501	Deadly Gunner
+550121001	Death's Legionnaire
+550121002	Killed 250 players in Civil Unrest: Velika as a Valkyrie.
+550121003	Killed 250 players in Civil Unrest: Velika as a Valkyrie.
+550121004	Valkyon Federation
+550121501	Deadly Valkyrie
+550122001	Death's Legionnaire
+550122002	Killed 250 players in Civil Unrest: Velika as a Ninja.
+550122003	Killed 250 players in Civil Unrest: Velika as a Ninja.
+550122004	Valkyon Federation
+550122501	Deadly Ninja
+550122800	Players killed:
+550123001	Back to Life, Back to Being Angry
+550123002	Defeat Nightmare Gardan and Bahaar 50 times.
+550123003	Defeat Nightmare Gardan and Bahaar 50 times.
+550123800	Nightmare Gardan
+550123801	Bahaar
+550124001	Encounter with Bahaar's Soul
+550124002	Defeat Bahaar in Frozen Bahaar's Sanctum 77 times.
+550124003	Defeat Bahaar in Frozen Bahaar's Sanctum 77 times.
+550124800	Bahaar
+550125001	Survival of the Fittest
+550125002	Won 80 times in Blitz Barrage as a Priest.
+550125003	Won 80 times in Blitz Barrage as a Priest.
+550125005	Astral
+550126001	Survival of the Fittest
+550126002	Won 80 times in Blitz Barrage as a Mystic.
+550126003	Won 80 times in Blitz Barrage as a Mystic.
+550126005	Celestial
+550127001	Survival of the Fittest
+550127002	Won 80 times in Blitz Barrage as a Lancer.
+550127003	Won 80 times in Blitz Barrage as a Lancer.
+550127005	Chariot
+550128001	Survival of the Fittest
+550128002	Won 80 times in Blitz Barrage as a Brawler.
+550128003	Won 80 times in Blitz Barrage as a Brawler.
+550128005	Behemoth
+550129001	Survival of the Fittest
+550129002	Won 80 times in Blitz Barrage as a Warrior.
+550129003	Won 80 times in Blitz Barrage as a Warrior.
+550129005	Inferno Warlord
+550130001	Survival of the Fittest
+550130002	Won 80 times in Blitz Barrage as a Slayer.
+550130003	Won 80 times in Blitz Barrage as a Slayer.
+550130005	Wraithblade Marauder
+550131001	Survival of the Fittest
+550131002	Won 80 times in Blitz Barrage as a Berserker.
+550131003	Won 80 times in Blitz Barrage as a Berserker.
+550131005	Reckless Onslaught
+550132001	Survival of the Fittest
+550132002	Won 80 times in Blitz Barrage as a Sorcerer.
+550132003	Won 80 times in Blitz Barrage as a Sorcerer.
+550132005	Phantom Spellcaster
+550133001	Survival of the Fittest
+550133002	Won 80 times in Blitz Barrage as an Archer.
+550133003	Won 80 times in Blitz Barrage as an Archer.
+550133005	Deadeye
+550134001	Survival of the Fittest
+550134002	Won 80 times in Blitz Barrage as a Reaper.
+550134003	Won 80 times in Blitz Barrage as a Reaper.
+550134005	Harbinger
+550135001	Survival of the Fittest
+550135002	Won 80 times in Blitz Barrage as a Gunner.
+550135003	Won 80 times in Blitz Barrage as a Gunner.
+550135005	Gunslinger
+550136001	Survival of the Fittest
+550136002	Won 80 times in Blitz Barrage as a Valkyrie.
+550136003	Won 80 times in Blitz Barrage as a Valkyrie.
+550136005	Battle Maiden
+550137001	Survival of the Fittest
+550137002	Won 80 times in Blitz Barrage as a Ninja.
+550137003	Won 80 times in Blitz Barrage as a Ninja.
+550137005	Blitz Barrage wins:
+550137006	Crimson Kunoichi
+550138001	Addressing the Situation
+550138002	The Blitz Keeper has stolen the crown from Fraywind Canyon. Retrieve it by winning 100 games.
+550138003	Won 100 times in Blitz Barrage.
+550138005	Blitz Barrage wins:
+550139001	Sizzlin' Love
+550139002	Participate in the Valentine Event and use the 2024 Valentines Title Token.
+550139003	Use the 2024 Valentines Title Token.
+550139004	Valkyon Federation
+550139005	Master Baiter
+550140001	King of Hearts
+550140002	Use the King of Hearts Valentine Title Token.
+550140003	Use the King of Hearts Valentine Title Token.
+550140004	Valkyon Federation
+550140005	King of Hearts
+550141001	Queen of Hearts
+550141002	Use the Queen of Hearts Valentine Title Token.
+550141003	Use the Queen of Hearts Valentine Title Token.
+550141004	Valkyon Federation
+550141005	Queen of Hearts
+550142001	Max Veilbound Gear
+550142002	Upgrade Veilbound gear and complete "[Important] The Power of The Veil"
+550142003	Upgrade Veilbound gear and complete "[Important] The Power of The Veil"
+550142004	Valkyon Federation
+550142501	Soulscape Explorer
+550142800	[Important] The Power of The Veil
+550143001	Content Creator
+550143002	Become a Content Creator.
+550143003	Become a Content Creator.
+550143004	Valkyon Federation
+550143005	Content Creator
+550144001	Watcher
+550144002	Use the Watcher Title Token.
+550144003	Use the Watcher Title Token.
+550144004	Valkyon Federation
+550144005	Watcher
+550145001	This is for You
+550145002	Slay the Argon Predator in Val Kaeli 10 times.
+550145003	Slay the Argon Predator in Val Kaeli 10 times.
+550145004	Valkyon Federation
+550145501	Anya's Avenger
+550145800	Argon Predator
+550146001	Stockholm Syndrome
+550146002	Slay the Suulvir Mastermind in Helkan District 10 times.
+550146003	Slay the Suulvir Mastermind in Helkan District 10 times.
+550146004	Valkyon Federation
+550146501	Forced Friendship
+550146800	Suulvir Mastermind
+550147001	Well, isn't this Deja Vu?
+550147002	Slay Perdidrax in Val Tirkai 10 times.
+550147003	Slay Perdidrax in Val Tirkai 10 times.
+550147004	Valkyon Federation
+550147501	Do I Know You?
+550147800	Perdidrax
+550148001	Vanquisher of Argons
+550148002	Completed the achievements listed below:
+550148003	Completed the achievements listed below:
+550148004	Valkyon Federation
+550148501	The Superior Being
+550148800	This is for You
+550148801	Stockholm Syndrome
+550148802	Well, isn't this Deja Vu?
+550149001	Better Together
+550149002	Use the Better Together Title Token.
+550149003	Use the Better Together Title Token.
+550149004	Valkyon Federation
+550149005	Better Together
+550150001	Friends in High Places
+550150002	Use the Friends in High Places Title Token.
+550150003	Use the Friends in High Places Title Token.
+550150004	Valkyon Federation
+550150005	Friends in High Places
+550151001	Clawriders Fear Me, Castanics Want Me
+550151002	Use the Clawriders Fear Me, Castanics Want Me Title Token.
+550151003	Use the Clawriders Fear Me, Castanics Want Me Title Token.
+550151004	Valkyon Federation
+550151005	Clawriders Fear Me, Castanics Want Me
+550152001	Splash Fiesta
+550152002	Use the Splash Fiesta Title Token.
+550152003	Use the Splash Fiesta Title Token.
+550152004	Valkyon Federation
+550152005	Splash Fiesta
+550153001	Exquisite Throw
+550153002	Use the Exquisite Throw Title Token.
+550153003	Use the Exquisite Throw Title Token.
+550153004	Valkyon Federation
+550153005	Exquisite Throw
+550154001	Never Lose
+550154002	Use the Never Lose Title Token.
+550154003	Use the Never Lose Title Token.
+550154004	Valkyon Federation
+550154005	Never Lose
+550249001	Memories of the Past
+550249002	Toured Echoes of Argonea.
+550249003	Toured Echoes of Argonea.
+550249004	Valkyon Federation
+550249800	Tour Echoes of Argonea and speak to Nahbaun.
+550250001	Cyrulek Ore
+550250002	Gather Cyrulek Ore from a Cyrulek Ore node.
+550250004	Valkyon Federation
+550250800	Gathered Cyrulek Ore
+550251001	Cyasmic Essence
+550251002	Gather Cyasmic Essence from a Cyasma Essence node.
+550251004	Valkyon Federation
+550251800	Gathered Cyasma Essence
+550252001	Casian Leaf
+550252002	Gather Casian Leaf from a Casian Plant node.
+550252004	Valkyon Federation
+550252800	Gathered Casian Leaf
+550253001	One with the Guardians
+550253002	Soloed Gilgash Guardians in Echoes of Argonea.
+550253003	Soloed Gilgash Guardians in Echoes of Argonea.
+550253004	Valkyon Federation
+550254001	One with the Harvesters
+550254002	Soloed Suulvir Harvesters in Echoes of Argonea.
+550254003	Soloed Suulvir Harvesters in Echoes of Argonea.
+550254004	Valkyon Federation
+550255001	One with the Overseers
+550255002	Soloed Akalath Overseers in Echoes of Argonea.
+550255003	Soloed Akalath Overseers in Echoes of Argonea.
+550255004	Valkyon Federation
+550256001	Unseen Threat
+550256002	Rid Echoes of Argonea of Ethereal Shadowstalker repeatedly.
+550256003	Rid Echoes of Argonea of Ethereal Shadowstalker repeatedly.
+550256004	Valkyon Federation
+550256501	The All-Seer
+550256800	Ethereal Shadowstalker count:
+550257001	Take down the Spaceship!
+550257002	Rid Echoes of Argonea of Chrono Keeper repeatedly.
+550257003	Rid Echoes of Argonea of Chrono Keeper repeatedly.
+550257004	Valkyon Federation
+550257501	The Enforcer
+550257800	Chrono Keeper count:
+550258001	Echoes of the Argon Invasion
+550258002	Complete the achievements listed below.
+550258003	Complete the achievements listed below.
+550258004	Valkyon Federation
+550258501	Argon Emperor
+550259001	Chronicles of the Argon War
+550259002	Completed the following quests in Echoes of Argonea:
+550259003	Completed the following quests in Echoes of Argonea:
+550259004	Valkyon Federation
+550259800	Recording of the Past
+550260001	Master of Shadows
+550260002	Completed the following quests in Echoes of Argonea:
+550260003	Completed the following quests in Echoes of Argonea:
+550260004	Valkyon Federation
+550260800	What Lies Hidden, Should Stay Hidden
+550261001	Guardian's Vow
+550261002	Completed the following quests in Echoes of Argonea:
+550261003	Completed the following quests in Echoes of Argonea:
+550261004	Valkyon Federation
+550261800	Meet the Guardians
+550262001	Secrets Unveiled
+550262002	Complete the achievements listed below.
+550262003	Complete the achievements listed below.
+550262004	Valkyon Federation
+550262501	Witness
+550263001	Splash Tactician
+550263002	Won ten times in Coastal Battleground.
+550263003	Won ten times in Coastal Battleground.
+550263004	Valkyon Federation
+550264001	Soaked Survivor
+550264002	Won 50 times in Coastal Battleground.
+550264003	Won 50 times in Coastal Battleground.
+550264004	Valkyon Federation
+550265001	Balloon Barrage
+550265002	Won 100 times in Coastal Battleground.
+550265003	Won 100 times in Coastal Battleground.
+550265004	Valkyon Federation
+550265005	Soak Specialist
+550266001	Refreshing Snack
+550266002	Defeated Watermelon 10 times in Coastal Battleground.
+550266003	Defeated Watermelon 10 times in Coastal Battleground.
+550266004	Valkyon Federation
+550266005	Coastal Battleground wins:
+550267001	Unyielding Resolve
+550267002	Kill [Ace] Lachelith in [Ace] Ruinous Manor 10 times.
+550267003	Kill [Ace] Lachelith in [Ace] Ruinous Manor 10 times.
+550267004	Valkyon Federation
+550267800	[Ace] Lachelith kill count:
+550268001	Laser Frenzy
+550268002	Kill [Ace] Lachelith without getting hit by her Double Laser or Triple Laser in [Ace] Ruinous Manor.
+550268003	Kill [Ace] Lachelith without getting hit by her Double Laser or Triple Laser in [Ace] Ruinous Manor.
+550268004	Valkyon Federation
+550268800	[Ace] Lachelith
+550269001	Demokron Wings
+550269002	Defeated [Ace] Darkan 10 times in [Ace] Sky Cruiser Endeavor.
+550269003	Defeated [Ace] Darkan 10 times in [Ace] Sky Cruiser Endeavor.
+550269004	Valkyon Federation
+550269800	Defeated [Ace] Darkan 10 times
+550270001	This Is Ground Zero
+550270002	Defeated [Ace] Darkan without getting hit by his push attack skill.
+550270003	Defeated [Ace] Darkan without getting hit by his push attack skill.
+550270004	Valkyon Federation
+550270800	Defeat [Ace] Darkan without being pushed
+550271001	Siphon Shield
+550271002	Defeat [Ace] Darkan in [Ace] Sky Cruiser Endeavor without getting the Dark Siphon debuff.
+550271003	Defeat [Ace] Darkan in [Ace] Sky Cruiser Endeavor without getting the Dark Siphon debuff.
+550271004	Valkyon Federation
+550271005	Untouched
+550271800	Defeat [Ace] Darkan without getting the Dark Siphon debuff
+550272001	Ruler of Battlefield
+550272002	Use the Ruler of Battlefield Title Token.
+550272003	Use the Ruler of Battlefield Title Token.
+550272004	Valkyon Federation
+550272005	Ruler of Battlefield
+550273001	Pirate Overlord
+550273002	Use the Pirate Overlord Title Token.
+550273003	Use the Pirate Overlord Title Token.
+550273004	Valkyon Federation
+550273005	Pirate Overlord
+550274001	Aye Captain!
+550274002	Use the Aye Captain! Title Token.
+550274003	Use the Aye Captain! Title Token.
+550274004	Valkyon Federation
+550274005	Aye Captain!
+550275001	Aaaaaarrrrgh!
+550275002	Use the Aaaaaarrrrgh! Title Token.
+550275003	Use the Aaaaaarrrrgh! Title Token.
+550275004	Valkyon Federation
+550275005	Aaaaaarrrrgh!
+550276001	PvE Leaderboard Rewards Forbidden Arena (Hagufna) 1st Place
+550276002	1st place in the current season
+550276003	1st place in the current season
+550276004	Valkyon Federation
+550276005	Mightier Than the Sword
+550277001	PvE Leaderboard Rewards Forbidden Arena (Hagufna) 2nd, 3rd Place
+550277002	2nd or 3rd place in the current season
+550277003	2nd or 3rd place in the current season
+550277004	Valkyon Federation
+550277005	A Cut Above
+550278001	PvE Leaderboard Rewards Corrupted RK-9 Kennel 1st Place
+550278002	1st place in the current season
+550278003	1st place in the current season
+550278004	Valkyon Federation
+550278005	Chained the Beast
+550279001	PvE Leaderboard Rewards Corrupted RK-9 Kennel 2nd, 3rd Place
+550279002	2nd or 3rd place in the current season
+550279003	2nd or 3rd place in the current season
+550279004	Valkyon Federation
+550279005	No Rest for the Wicked
+550281001	Red Alert
+550281002	Defeat Corrupted RK-9 in Corrupted RK-9 Kennel.
+550281003	Defeat Corrupted RK-9 in Corrupted RK-9 Kennel.
+550281800	Corrupted RK-9
+550282001	RK-9 Terminated
+550282002	Defeat Corrupted RK-9 10 times in Corrupted RK-9 Kennel.
+550282003	Defeat Corrupted RK-9 10 times in Corrupted RK-9 Kennel.
+550282800	Corrupted RK-9
+550283001	Circuit Breaker
+550283002	Defeat Corrupted RK-9 30 times in Corrupted RK-9 Kennel.
+550283003	Defeat Corrupted RK-9 30 times in Corrupted RK-9 Kennel.
+550283004	Valkyon Federation
+550283005	No More Shields
+550283800	Corrupted RK-9
+550284001	System Failure
+550284002	Defeat Corrupted RK-9 50 times in Corrupted RK-9 Kennel.
+550284003	Defeat Corrupted RK-9 50 times in Corrupted RK-9 Kennel.
+550284005	Critical Condition
+550284800	Corrupted RK-9
+550285001	No Reboot Needed
+550285002	Defeat Corrupted RK-9 in Corrupted RK-9 Kennel 77 times.
+550285003	Defeat Corrupted RK-9 in Corrupted RK-9 Kennel 77 times.
+550285004	Valkyon Federation
+550285005	Overclocked
+550286001	Quick Response Unit
+550286002	Defeat Corrupted RK-9 in the Corrupted RK-9 Kennel without anyone exploding.
+550286003	Defeat Corrupted RK-9 in the Corrupted RK-9 Kennel without anyone exploding.
+550286004	Valkyon Federation
+550286800	Defeat Corrupted RK-9 without anyone exploding.
+550287001	System Override
+550287002	Defeat Corrupted RK-9 in the Corrupted RK-9 Kennel without getting hit by any special attacks.
+550287003	Defeat Corrupted RK-9 in the Corrupted RK-9 Kennel without getting hit by any special attacks.
+550287004	Valkyon Federation
+550287800	Defeat Corrupted RK-9 without getting hit by any special attacks.
+550288001	Error 404: RK-9 Not Found
+550288002	Defeat Corrupted RK-9 in the Corrupted RK-9 Kennel within 6 minutes.
+550288003	Defeat Corrupted RK-9 in the Corrupted RK-9 Kennel within 6 minutes.
+550288004	Valkyon Federation
+550289001	The Final Debug
+550289002	Defeat Corrupted RK-9 in the Corrupted RK-9 Kennel without dying.
+550289003	Defeat Corrupted RK-9 in the Corrupted RK-9 Kennel without dying.
+550289005	Defeat Corrupted RK-9 in the Corrupted RK-9 Kennel without dying
+550290001	Corruption Contained
+550290002	Complete the achievements listed below.
+550290003	Complete the achievements listed below.
+550290004	Valkyon Federation
+550290501	Purifier of the Kennel
 555006001	Easy as Pie!
 555006002	Completed the 5th challenge in Dreadspire.
 555006003	Completed the 5th challenge in Dreadspire.
@@ -11601,7 +12198,7 @@
 800000029	Antagonist
 800000030	I Am The Wine!
 800000031	Princess
-800000032	Main Clown of The Dream
+800000032	NyaNyaNyaNyan
 800000033	Ecliptic
 800000034	Professor
 800000035	Ashes of Al'ar
@@ -11618,7 +12215,7 @@
 800000046	Sushi Lover
 800000047	Mediocre
 800000048	Dominatrix
-800000049	Cute but a Dude
+800000049	Bad Dragon
 800000050	Azuki
 800000051	Monachopsis
 800000052	Infamous
@@ -11633,3 +12230,61 @@
 800000061	Tickle your Pickle
 800000062	White Fox
 800000063	Forever Nooblet
+800000064	Creampie
+800000065	Kiki's Dolls
+800000066	The Darkness Harbinger
+800000067	princess
+800000068	feet
+800000069	Sky Piercer
+800000070	E Rank Adventurer
+800000071	Arab Power
+800000072	Malaysian
+800000073	angel
+800000074	Tsundere
+800000075	Madness Under Control
+800000076	The Darkness
+800000077	#NoRemorse
+800000078	Yanatixena ninja
+800000079	Pyromaniac
+800000080	Fluffy Floormat
+800000081	Legjenda nga Mitrovica
+800000082	Guardian Angel
+800000083	disappointed
+800000084	Closer to the stars
+800000085	UwU
+800000086	The Almighty
+800000087	My Crazy Life
+800000088	Absolute
+800000089	#1 Popori Enthusiast!
+800000090	dedd
+800000091	Leaky Shield
+800000092	Beloved of Hell
+800000093	Clown
+800000094	Best Hunter LineageII
+800000095	Etoile de midi ex (Xena)
+800000096	Sexi Ninja
+800000097	Outcast
+800000098	Devil's Reject
+800000099	MayTheForceBeWithYou
+800000100	Hitori.Bocchi
+800000101	No Prayer at Midnight
+800000102	Evanescent
+800000103	Tengri
+800000104	Grandad
+800000105	Infitiy Blade
+800000106	Destined Death
+800000107	I am gonna say it...
+800000108	Moonchild
+800000109	Terror of Tanks
+800000110	Deadly
+800000111	Man in the Middle
+800000112	Schwarze Witwe
+800000113	Demon Lancer
+800000114	FastRun
+800000115	Rize's Toy
+800000116	Komo's Toy
+800000117	Lakan's Successor
+800000118	Cloud is recruiting, parcel...
+800000119	Ase
+800000120	Dark
+800000121	God

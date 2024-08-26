@@ -1044,6 +1044,7 @@
 190500	Common	Common	Berserker	Triumphant Shout V	False		icon_skills.tenacity_tex
 200100	Common	Common	Berserker	Inescapable Doom I	False		icon_skills.murderousvent_tex
 200200	Common	Common	Berserker	Inescapable Doom II	False		icon_skills.murderousvent_tex
+200201	Common	Common	Berserker	Inescapable Doom	False		icon_skills.murderousvent_tex
 200300	Common	Common	Berserker	Inescapable Doom III	False		icon_skills.murderousvent_tex
 200400	Common	Common	Berserker	Inescapable Doom IV	False		icon_skills.murderousvent_tex
 210100	Common	Common	Berserker	Bloodlust I	False	Fury	icon_skills.fury_tex
@@ -2958,7 +2959,9 @@
 81000	Common	Common	Mystic	Metamorphic Blast X	False		icon_skills.punishingshield_tex
 81030	Common	Common	Mystic	Metamorphic Blast X	True		icon_skills.punishingshield_tex
 81100	Common	Common	Mystic	Metamorphic Blast XI	False		icon_skills.punishingshield_tex
+81101	Common	Common	Mystic	Metamorphic Blast XI	False		icon_skills.punishingshield_tex
 81130	Common	Common	Mystic	Metamorphic Blast XI	True		icon_skills.punishingshield_tex
+81131	Common	Common	Mystic	Metamorphic Blast XI	True		icon_skills.punishingshield_tex
 90100	Common	Common	Mystic	Arun's Cleansing Touch	False		icon_skills.purifyshot_tex
 90110	Common	Common	Mystic	Arun's Cleansing Touch	False		icon_skills.purifyshot_tex
 90200	Common	Common	Mystic	Arun's Cleansing Touch	False		icon_skills.purifyshot_tex
@@ -3102,7 +3105,9 @@
 231000	Common	Common	Mystic	Metamorphic Smite X	False		icon_skills.rageofearth_tex
 231030	Common	Common	Mystic	Metamorphic Smite X	True		icon_skills.rageofearth_tex
 231100	Common	Common	Mystic	Metamorphic Smite XI	False		icon_skills.rageofearth_tex
+231101	Common	Common	Mystic	Metamorphic Smite XI	False		icon_skills.rageofearth_tex
 231130	Common	Common	Mystic	Metamorphic Smite XI	True		icon_skills.rageofearth_tex
+231131	Common	Common	Mystic	Metamorphic Smite XI	True		icon_skills.rageofearth_tex
 240100	Common	Common	Mystic	Volley of Curses I	False		icon_skills.painfulshackle_tex
 240110	Common	Common	Mystic	Volley of Curses I	False		icon_skills.painfulshackle_tex
 240200	Common	Common	Mystic	Volley of Curses II	False		icon_skills.painfulshackle_tex
@@ -3318,6 +3323,7 @@
 450150	Common	Common	Mystic	Thrall Augmentation	False	Off	icon_skills.spiritedness_tex
 460100	Common	Common	Mystic	Summon: Elemental God			icon_skills.summonspiritking_tex
 470100	Common	Common	Mystic	Arunic Release	False		icon_skills.marbleexplosion_tex
+470101	Common	Common	Mystic	Arunic Release	False		icon_skills.marbleexplosion_tex
 480100	Common	Common	Mystic	Summon: Thrall Lord	False		icon_skills.summonspiritking_tex
 9100100	Common	Common	Mystic	Apex Urgency	False		icon_skills.awakenaura_tex
 10100	Common	Common	Ninja	Combo Attack I	False	hit 1	icon_skills.c12_meleecombo
@@ -3537,6 +3543,7 @@
 30730	Common	Common	Ninja	Leaves on the Wind VII	True		icon_skills.c12_rapidshot
 30800	Common	Common	Ninja	Leaves on the Wind VIII	False		icon_skills.c12_rapidshot
 30820	Common	Common	Ninja	Leaves on the Wind VIII	False		icon_skills.c12_rapidshot
+30821	Common	Common	Ninja	Harmonious Quick Attack	False		icon_skills.chakraemission_tex
 30830	Common	Common	Ninja	Leaves on the Wind VIII	True		icon_skills.c12_rapidshot
 30840	Common	Common	Ninja	Leaves on the Wind VIII	True		icon_skills.c12_rapidshot
 40100	Common	Common	Ninja	Jagged Path I	False		icon_skills.c12_dashattack
@@ -7260,7 +7267,7 @@
 1003259	Common	Common	Common	Smart Box: Dyeable Bygone Halloween Costume (Permanent)			icon_items.gift_box04_tex
 1003260	Common	Common	Common	Smart Box: Dyeable Bygone Halloween Costume (30 Days)			icon_items.gift_box04_tex
 1003261	Common	Common	Common	Smart Box: Dyeable Bygone Halloween Costume (7 Days)			icon_items.gift_box04_tex
-1003262	Common	Common	Common	Smart Box: TERA Police Officer's Uniform (Permanent)			icon_items.gift_box04_tex
+1003262	Common	Common	Common	Smart Box: MT Dream Police Officer's Uniform (Permanent)			icon_items.gift_box04_tex
 1003263	Common	Common	Common	Smart Box: White Nurse's Dress with Name Tag (Permanent)			icon_items.gift_box04_tex
 1003264	Common	Common	Common	Smart Box: Pink Nurse's Dress with Name Tag (Permanent)			icon_items.gift_box04_tex
 1003265	Common	Common	Common	Smart Box: Black Nurse's Dress with Name Tag (Permanent)			icon_items.gift_box04_tex
@@ -7698,18 +7705,18 @@
 8881001	Common	Common	Common	Convergence			icon_skills.guildskills_callclan_tex
 8881002	Common	Common	Common	Battle Will			icon_skills.guildskills_ccres2_tex
 8881003	Common	Common	Common	Impregnable			icon_skills.guildskills_basehp2_tex
-9010100	Human	Common	Common	Velik's Horn			icon_skills.returnofvelica_tex
-9010100	Highelf	Common	Common	Core's Resonance			icon_skills.returnofcore_tex
-9010100	Baraka	Common	Common	Core's Resonance			icon_skills.returnofcore_tex
 9010100	Aman	Common	Common	Kaiator's Drums			icon_skills.returnofkaiator_tex
 9010100	Popori	Common	Common	Velik's Horn			icon_skills.returnofvelica_tex
+9010100	Human	Common	Common	Velik's Horn			icon_skills.returnofvelica_tex
 9010100	Castanic	Common	Common	Kaiator's Drums			icon_skills.returnofkaiator_tex
+9010100	Baraka	Common	Common	Core's Resonance			icon_skills.returnofcore_tex
+9010100	Highelf	Common	Common	Core's Resonance			icon_skills.returnofcore_tex
 9020100	Popori	Common	Common	Soothing Presence			icon_skills.naturesfriend_tex
-9020100	Castanic	Common	Common	Skirmish Running			icon_skills.markoflok_tex
-9020100	Human	Common	Common	Deft Footwork			icon_skills.duelmastery_tex
-9020100	Highelf	Common	Common	Core Infusion			icon_skills.activatelink_tex
 9020100	Aman	Common	Common	Last Aman Standing			icon_skills.expertfighter_tex
 9020100	Baraka	Common	Common	Ancient Wellspring			icon_skills.earthmeld_tex
+9020100	Castanic	Common	Common	Skirmish Running			icon_skills.markoflok_tex
+9020100	Highelf	Common	Common	Core Infusion			icon_skills.activatelink_tex
+9020100	Human	Common	Common	Deft Footwork			icon_skills.duelmastery_tex
 9030100	Popori	Common	Common	Horizon Run			icon_skills.journeyman_tex
 9100001	Common	Common	Common	Dreamreader			icon_skills.bluebird_vehicleskill_rare_tex
 9100002	Common	Common	Common	Dreamreader			icon_skills.bluebird_vehicleskill_rare_tex
@@ -9664,7 +9671,7 @@
 14600690	Common	Common	Common	[Event] Third Stage Chest			icon_items.vergos_box02_tex
 14600691	Common	Common	Common	[Event] Fourth Stage Chest			icon_items.vergos_box01_tex
 15200004	Common	Common	Common	Poison			icon_items.q_flaskseal_tex
-15210001	Common	Common	Common	Summon: Sandy Elephant			icon_skills.vehicle_elephant_tex
+15210001	Common	Common	Common	Summon: Free Traders Fortuna			icon_skills.horse_lord_c_tex
 15210002	Common	Common	Common	Summon: Tanner			icon_skills.trans_lion_white_tex
 15300000	Common	Common	Common	Summon: Regal Frostlion			icon_skills.trans_lion_white_tex
 16300006	Common	Common	Common	Emblem of Success			icon_items.parts_magicweaponc15_tex
@@ -10912,7 +10919,7 @@
 19001727	Common	Common	Common	Smart Box: Exodor's Weapon Skin			icon_items.gift_box04_tex
 19001728	Common	Common	Common	Smart Box: Exodor's Weapon Skin			icon_items.gift_box04_tex
 19001729	Common	Common	Common	Smart Box: Darkcore Armor (7 Days)			icon_items.gift_box04_tex
-19001730	Common	Common	Common	Smart Box: Darkcore Armor			icon_items.gift_box04_tex
+19001730	Common	Common	Common	Smart Box: Darkcore Armor (Untradeable)			icon_items.gift_box04_tex
 19001731	Common	Common	Common	Smart Box: Darkcore Armor			icon_items.gift_box04_tex
 19001747	Common	Common	Common	Smartbox: Violet Dragon Costume (30 days)			icon_items.premiumbox_dress3_tex
 19001748	Common	Common	Common	Smartbox: Violet Dragon Costume (14 days)			icon_items.premiumbox_dress3_tex
@@ -11661,10 +11668,12 @@
 30209104	Common	Common	Common	Skill Advancement 15 (1 Day)			icon_items.politics_reward_tex
 30209105	Common	Common	Common	Super Speed Potion (500%-1000%, 1 Hour)			icon_items.potion20_tex
 60010100	Common	Common	Common	Rejuvenation Potion			icon_items.potion1_tex
+60010101	Common	Common	Common	Cyasma Rejuvenation Potion			icon_items.pvpreju_tex
 60020100	Common	Common	Common	Holy Potion of Protection			icon_items.potion2_tex
 60020206	Common	Common	Common	Manxome Draught			icon_items.potion2_tex
 60030100	Common	Common	Common	Kaia's Binding			icon_items.petrolbomb_tex
 60060100	Common	Common	Common	Valkyon Health Potion			icon_items.potion5_tex
+60060101	Common	Common	Common	Cyasma Health Potion			icon_items.pvphealth_tex
 60060200	Common	Common	Common	Elixir			icon_items.eagles_potion_level_47_tex
 60070100	Common	Common	Common	Rejuvenation Mote			icon_items.potion1_tex
 60080100	Common	Common	Common	MP Replenishment Mote			icon_items.potion3_tex
@@ -11779,7 +11788,7 @@
 60130220	Common	Common	Common	Keep and Manor Teleport Scroll			icon_items.dungeon_recall_tex
 60130221	Common	Common	Common	Ruinous Manor Teleport Scroll			icon_items.dungeon_recall_tex
 60130222	Common	Common	Common	Broken Prison Teleport Scroll			icon_items.dungeon_recall_tex
-60130223	Common	Common	Common	Velik's Hold and Velik's Sanctuary Teleport Scroll			icon_items.dungeon_recall_tex
+60130223	Common	Common	Common	Velik's Hold and Sanctuary's Ruins Teleport Scroll			icon_items.dungeon_recall_tex
 60130224	Common	Common	Common	Demon's Wheel Teleport Scroll			icon_items.dungeon_recall_tex
 60130225	Common	Common	Common	San Allema Teleportal Scroll			icon_items.townrecall_tex
 60130226	Common	Common	Common	Thaumetal Refinery Teleport Scroll			icon_items.dungeon_recall_tex
@@ -12327,6 +12336,7 @@
 60401441	Common	Common	Common	Firework (7)			icon_items.fireworks_num_7_tex
 60401442	Common	Common	Common	Firework (8)			icon_items.fireworks_num_8_tex
 60401443	Common	Common	Common	Firework (9)			icon_items.fireworks_num_9_tex
+60401460	Common	Common	Common	Firework (I Love You)			icon_items.fireworks_ding_heart_tex
 60410100	Common	Common	Common	Scroll of Resurrection			icon_items.revival_tex
 60410101	Common	Common	Common	Bound Scroll of Full Resurrection			icon_items.perfect_revival_tex
 60410102	Common	Common	Common	Scroll of Rapid Resurrection			icon_items.rare_revival_tex
@@ -13166,6 +13176,12 @@
 61905916	Common	Common	Common	Highwatch Valkyrie Gear			icon_items.gift_box03_tex
 61905917	Common	Common	Common	Arx Umbra Valkyrie Gear			icon_items.gift_box03_tex
 61905918	Common	Common	Common	Valkyrie's Plunder Glyph Box			icon_items.glaiver_tresurebox_silyuka_tex
+61910002	Common	Common	Common	Water Balloon			icon_items.songkran_rainbowwaterball_tex
+61910004	Common	Common	Common	Water Balloon			icon_items.songkran_rainbowwaterball_tex
+61910006	Common	Common	Common	Pin			icon_items.universaldart_tex
+61910007	Common	Common	Common	Hot Water Balloon			icon_items.songkran_waterball_tex
+61910010	Common	Common	Common	Construction Sand Barrier			icon_items.refined_insecta8_tex
+61910011	Common	Common	Common	Water Balloon			icon_items.songkran_rainbowwaterball_tex
 61985010	Common	Common	Common	Expiring Anthrozombie Elixir (1 hour)			icon_items.rare_potion11_tex
 61985011	Common	Common	Common	Expiring Gynozombie Elixir (1 hour)			icon_items.rare_potion11_tex
 62000001	Common	Common	Common	Velik's Horn			
@@ -13187,8 +13203,8 @@
 63000006	Common	Common	Common	최상위 정령사 버프[PvE TEST]			icon_skills.summonspiritking_tex
 63000101	Common	Common	Common	Location Scan			icon_skills.behindmenace_tex
 63000102	Common	Common	Common	Meteor			icon_skills.howitzer_tex
-63000103	Common	Common	Common	Commander's Blessing			icon_skills.mpcharge_tex
-63000104	Common	Common	Common	Commander's Salvation			icon_skills.healarea_tex
+63000103	Common	Common	Common	Commander's Blessing			icon_skills.guildskill2_mpup_1_tex
+63000104	Common	Common	Common	Commander's Salvation			icon_skills.guildskill2_hpup_1_tex
 63000105	Common	Common	Common	Commander's Blessing			icon_skills.mpcharge_tex
 63000106	Common	Common	Common	Commander's Salvation			icon_skills.healarea_tex
 63000107	Common	Common	Common	Meteor			icon_skills.howitzer_tex
@@ -13196,6 +13212,14 @@
 63000109	Common	Common	Common	Meteor			icon_skills.howitzer_tex
 63000110	Common	Common	Common	Meteor			icon_skills.howitzer_tex
 63000111	Common	Common	Common	Meteor			icon_skills.howitzer_tex
+63000113	Common	Common	Common	Summon Party Member			icon_skills.vip_recallfriend_tex
+63000114	Common	Common	Common	Commander's Horn			icon_skills.guildskills_critrate_tex
+63000115	Common	Common	Common	Commander's Grace			icon_skills.guildskills_critres_tex
+63000116	Common	Common	Common	Commander's Gift			icon_skills.guildskills_ccres2_tex
+63000150	Common	Common	Common	Set Us Up, Da Stun Bomb			icon_skills.voidtrap_tex
+63000151	Common	Common	Common	Set Us Up, Da Slow Bomb			icon_skills.voidtrap_tex
+63000152	Common	Common	Common	Set Us Up, Da Knock Up Bomb			icon_skills.voidtrap_tex
+63000153	Common	Common	Common	Set Us Up, Da Root Bomb			icon_skills.voidtrap_tex
 63005500	Common	Common	Common	Big Breasts (1 minute)			icon_items.icon_poongu_item_tex
 63005501	Common	Common	Common	Small Breasts (1 minute)			icon_items.icon_poongu_item_tex_minus
 63005502	Common	Common	Common	Tall Body (1 minute)			icon_items.icon_jangshin_item_tex
@@ -13304,7 +13328,16 @@
 65000651	Common	Common	Common	Simple Grounding Brooch			icon_items.goddess_brooch_tex
 65190029	Common	Common	Common	Speed Mote			icon_items.potion2_tex
 65190030	Common	Common	Common	Inversion Mote			icon_items.potion2_tex
+65190031	Common	Common	Common	TBD			icon_items.unionextractorkey_tex
+65190032	Common	Common	Common	Argon Detection Totem			icon_items.spawndetectward_tex
+65190060	Common	Common	Common	Kalash Dawn Mote			icon_items.potion2_tex
+65190061	Common	Common	Common	Kalash Dusk Mote			icon_items.potion4_tex
+65190062	Common	Common	Common	Kalash Mote			icon_items.potion2_tex
 70006000	Common	Common	Common	Casidhe's Stand Teleport Scroll			icon_items.townrecall_tex
+91905217	Common	Common	Common	Kaia's Sword Credit (1,750)			icon_items.reputationpoint_tex
+91905218	Common	Common	Common	Riftbound Tributes Credit (250)			icon_items.reputationpoint_tex
+91905219	Common	Common	Common	Phantom Essence Credit (250)			icon_items.reputationpoint_tex
+91905220	Common	Common	Common	Argonite Remnants Credit (1,750)			icon_items.reputationpoint_tex
 98140000	Common	Common	Common	Menma's Brave Multi-Nostrum			icon_items.menma_brave_multinostrum
 98140001	Common	Common	Common	Darkan's Wings			icon_status.descentofdarkness_tex
 98140003	Common	Common	Common	Darkan's Black Wings			icon_status.descentofdarkness3_tex
@@ -13316,7 +13349,7 @@
 98140018	Common	Common	Common	Iridian Fishery Teleport Scroll			icon_items.dungeon_recall_tex
 98140019	Common	Common	Common	Azart Fish Farm Teleport Scroll			icon_items.dungeon_recall_tex
 98140020	Common	Common	Common	Verrak Fountain Fishery Teleport Scroll			icon_items.dungeon_recall_tex
-98140050	Common	Common	Common	God of Fire's Wings			icon_status.wrathstormcompleted_tex
+98140050	Common	Common	Common	Solar Flare Wings			icon_status.wrathstormcompleted_tex
 98140052	Common	Common	Common	Devil's Wings			icon_status.darkriftdestroy_tex
 98140054	Common	Common	Common	Elinu's Floral Veil			icon_items.raw_flower1
 98140055	Common	Common	Common	Ancient Dragon's Wings			icon_status.battlecommand04_tex
@@ -13324,9 +13357,13 @@
 98140058	Common	Common	Common	Unstable Bomb of Cooling			icon_items.homonpcrts2c_tex
 98140060	Common	Common	Common	[Event] Icefish Bait			icon_items.worm01_tex
 98140062	Common	Common	Common	Slowdown Potion			icon_items.potion9_tex
+98140157	Common	Common	Common	Devil's Wings			icon_status.darkriftdestroy_tex
+98140159	Common	Common	Common	Dropout Cleanse			icon_items.hmp_durabie_potion_level_49_tex
+98140160	Common	Common	Common	[Battleground] Smilecracker			icon_items.smile_firecracker_tex
+98140161	Common	Common	Common	Snowball			icon_items.snowball_large_tex
 98141000	Common	Common	Common	Menma's Strong Multi-Nostrum			icon_items.menma_strong_multinostrum
 98150000	Common	Common	Common	Dungeon Entry Expansion [Scorching Sky Cruiser]			icon_items.dungeonresetscroll_tex
-98150002	Common	Common	Common	Dungeon Entry Expansion [Velik's Sanctuary (Hard)]			icon_items.dungeonresetscroll_tex
+98150002	Common	Common	Common	Dungeon Entry Expansion [Sanctuary's Ruins (Hard)]			icon_items.dungeonresetscroll_tex
 98150003	Common	Common	Common	Dungeon Entry Expansion [Antaroth's Abyss (Hard)]			icon_items.dungeonresetscroll_tex
 98150004	Common	Common	Common	Dungeon Entry Expansion [Shadow Sanguinary (Hard)]			icon_items.dungeonresetscroll_tex
 98150005	Common	Common	Common	Dungeon Entry Expansion [The Plexus (Hard)]			icon_items.dungeonresetscroll_tex
@@ -13344,6 +13381,15 @@
 98150019	Common	Common	Common	Odd Potion			icon_items.q_oddpotion_tex
 98150020	Common	Common	Common	Weird Potion			icon_items.q_weirdpotion_tex
 98150021	Common	Common	Common	Warm Potion			icon_items.q_warm_potion_tex
+98150022	Common	Common	Common	Sky Soar			icon_skills.flyingcostumemt_tex
+98150023	Common	Common	Common	Dormant Brooch			icon_equipments.brooch_23pa_tex
+98150024	Common	Common	Common	Raging Storm Brooch			icon_equipments.stormbrooch_tex
+98150030	Common	Common	Common	Dungeon Entry Expansion [Lumikan's Dream]			icon_items.dungeonresetscroll_tex
+98150031	Common	Common	Common	Dungeon Entry Expansion [Lumikan's Dream (Hard)]			icon_items.dungeonresetscroll_tex
+98150032	Common	Common	Common	Dungeon Entry Expansion [Killing Grounds]			icon_items.dungeonresetscroll_tex
+98150033	Common	Common	Common	Dungeon Entry Expansion [Crimson Killing Grounds]			icon_items.dungeonresetscroll_tex
+98150034	Common	Common	Common	Dungeon Entry Expansion [Frozen Bahaar's Sanctum]			icon_items.dungeonresetscroll_tex
+98150035	Common	Common	Common	[Event] Monster Pieces			icon_items.monsterpiecevalentine_tex
 98240000	Common	Common	Common	Summon: Dapper Lloyd			icon_skills.vehicle_llama_d_tex
 98240001	Common	Common	Common	Summon: Free Traders Fortuna			icon_skills.horse_lord_c_tex
 98240002	Common	Common	Common	Summon: Iron Order Virtus			icon_skills.horse_lord_b_tex
@@ -13398,6 +13444,41 @@
 98245053	Common	Common	Common	Summon: Swift Rainbow			icon_skills.unicon_tex
 98245054	Common	Common	Common	Summon: Swift Death Charger			icon_skills.vehicle_horse_undead_tex
 98245055	Common	Common	Common	Flight: Support Kami			icon_skills.vehicle_gianthaechi_b_tex
+98245056	Common	Common	Common	Summon: Pyrepelt			icon_skills.vehicle_pyrepelt_tex
+98245057	Common	Common	Common	Summon: Blazing Pyrepelt			icon_skills.vehicle_b_pyrepelt_tex
+98245058	Common	Common	Common	Flight: Pyrepelt			icon_skills.vehicle_pyrepelt_tex
+98245059	Common	Common	Common	Flight: Blazing Pyrepelt			icon_skills.vehicle_b_pyrepelt_tex
+98245060	Common	Common	Common	Flight: Heartwynder			icon_skills.vehicle_phoenix_pink_tex
+98245061	Common	Common	Common	Flight: Silverwynder			icon_skills.vehicle_phoenix_white_tex
+98245062	Common	Common	Common	Flight: Darkwynder			icon_skills.vehicle_phoenix_black_tex
+98245063	Common	Common	Common	Summon: Giant Halloween Kitty			icon_skills.vehicle_halloween_kitty_tex
+98245064	Common	Common	Common	Flight: Kylos			icon_skills.vehicle_kylos_tex
+98245065	Common	Common	Common	Summon: Blazing Pyrepelt			icon_skills.vehicle_b_pyrepelt_tex
+98245066	Common	Common	Common	Summon: Swift Blood Moon Courser			icon_skills.vehicle_ghosthorse_d_tex
+98245067	Common	Common	Common	Summon: Swift Black Steed			icon_skills.vehicle_horse_lord_a_tex
+98245068	Common	Common	Common	Summon: Swift White Steed			icon_skills.vehicle_horse_lord_cn_a_tex
+98245069	Common	Common	Common	Flight: Polar Reindeer			icon_skills.vehicle_reindeer_tex
+98245070	Common	Common	Common	Flight: Halrath			icon_skills.vehicle_halrath_tex
+98245071	Common	Common	Common	Flight: Fluffy Cloud			icon_skills.vehicle_cloud_tex
+98245072	Common	Common	Common	Summon: Fat Kitty			icon_skills.vehicle_fatkitty_tex
+98245073	Common	Common	Common	Flight: Capybara			icon_skills.vehicle_capybara_tex
+98245074	Common	Common	Common	Flight: Capybara with Chick and Turtle			icon_skills.vehicle_capybaraanimals_tex
+98245075	Common	Common	Common	Flight: Cozy Capybara			icon_skills.vehicle_cozycapybara_tex
+98245076	Common	Common	Common	Flight: Cozy Capybara with Chick			icon_skills.vehicle_cozycapybaraanimals_tex
+98245077	Common	Common	Common	Flying Skill: Ancient Mighty Stygian War Gryphon			icon_skills.vehicle_statdragon_e_tex
+98245078	Common	Common	Common	Flying Skill: Ancient Mighty Empyrean War Gryphon			icon_skills.vehicle_statdragon_f_tex
+98245079	Common	Common	Common	Flight: Kami			icon_skills.vehicle_gianthaechi_a_tex
+98245080	Common	Common	Common	Summon: Swift Arcadian Dapple			icon_skills.horsepaint_tex
+98245081	Common	Common	Common	Summon: Swift Chestnut Gelding			icon_skills.horseyellow_tex
+98245082	Common	Common	Common	Summon: Swift Velikan Gray			icon_skills.horsegray_tex
+98245083	Common	Common	Common	Summon: Swift Pinto			icon_skills.horseyellowdot_tex
+98245084	Common	Common	Common	Summon: Swift Blue Roan			icon_skills.horsebluedot_tex
+98245085	Common	Common	Common	Summon: Swift White Stallion			icon_skills.mounthorse04_tex
+98245086	Common	Common	Common	Summon: Swift Regal Frostlion			icon_skills.trans_lion_white_tex
+98245087	Common	Common	Common	Summon: Thrall Lord			icon_skills.vehicle_kingblob_tex
+98245088	Common	Common	Common	Summon: Tantibus			icon_items.fireworks_ding_question_tex
+98245089	Common	Common	Common	Summon: Golden Tantibus			icon_items.fireworks_ding_question_tex
+98245090	Common	Common	Common	Summon: Dragonsire Vergos			icon_status.summonvergos_tex
 98340001	Common	Common	Common	Lower Guild Supplies			icon_items.mysterybox5_tex
 98340010	Common	Common	Common	Heroic Oath Weapon Box			icon_items.gift_box04_tex
 98340011	Common	Common	Common	Heroic Oath Armor Box (Body)			icon_items.gift_box04_tex

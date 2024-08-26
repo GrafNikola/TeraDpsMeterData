@@ -625,7 +625,7 @@
 203	SMT_CHAT_CANT_LORD_CHATING	Only the vanarch of this area can use this channel.
 203	SMT_CHAT_CANT_MAKE_CHANNEL_IS_NAME	The channel name must be between 2 and 8 letters.
 203	SMT_CHAT_CANT_MAKE_CHANNEL_IS_SAME_NAME	That channel name already exists.
-201	SMT_CHAT_CANT_USE_MEGAPHONE_AMOUNT	No megaphone. You can purchase a megaphone in TERA Shop.
+201	SMT_CHAT_CANT_USE_MEGAPHONE_AMOUNT	No megaphone. You can purchase a megaphone in MT Dream Shop.
 203	SMT_CHAT_CANT_USE_MEGAPHONE_COOLTIME	Cannot use megaphone until cooldown finishes.
 201	SMT_CHAT_CHANGE_PASSWORD	The password for {_ChannelName} has changed.
 203	SMT_CHAT_CHANNEL_NUM_IS_FAIL	No channel found.
@@ -651,7 +651,7 @@
 203	SMT_CHAT_PASSWORD_IS_FAIL	The password must consist of 4 numerals (0000-9999).
 203	SMT_CHAT_PENALTY_START	Your chat is restricted for sending too many messages.
 203	SMT_CHAT_QNA_NOTICE	Have fun in Arborea!
-203	SMT_CHAT_QNA_NOTICE_LINK	The TERA Team <3s you!
+203	SMT_CHAT_QNA_NOTICE_LINK	The MT Dream Team <3s you!
 201	SMT_CHAT_VIOLATION	SMT_CHAT_VIOLATION
 203	SMT_CHAT_WHISPER_SELF	Invalid target.
 201	SMT_CHECK_FREE_SERVICE_TIME_LEFT	Your play time ends in {time} min.
@@ -663,12 +663,12 @@
 201	SMT_CITYWAR_ANNOUNCE_DESTROY_BASE	{name} from <font color = '#ff5252'>{guild1}</font> <font color = '#ff5252'>destroyed {guild2}'s</font> tower.
 201	SMT_CITYWAR_OUTPOST_DESTROYED_DUE_TO_LACK_OF_MINIMUM_PERSONNEL	<font color = '#ff5252'>{guild}</font> failed to meet the minimum party size. <font color = '#ff5252'>{guild}</font>'s Guild Tower has been destroyed.
 203	SMT_NOT_ENOUGH_GUILD_QUEST_POINT_TO_ENTRY_CITYWAR	You don't have enough Valderon Tokens to enter.
-201	SMT_CITYWAR_ANNOUNCE_END	Civil Unrest: Colossal Ruins ends in 10 minutes.
+201	SMT_CITYWAR_ANNOUNCE_END	Civil Unrest: Velika ends in 10 minutes.
 205	SMT_CITYWAR_ANNOUNCE_FIND	{name} found [{guild}]'s tower.
-201	SMT_CITYWAR_ANNOUNCE_START	Civil Unrest: Colossal Ruins begins in 10 minutes. You will be automatically teleported to the start point when the event begins.
-203	SMT_ITEM_CANNOT_USE_NOBASE	Your guild did not build a tower before Civil Unrest: Colossal Ruins began.
+201	SMT_CITYWAR_ANNOUNCE_START	Civil Unrest: Velika begins in 10 minutes. You will be automatically teleported to the start point when the event begins.
+203	SMT_ITEM_CANNOT_USE_NOBASE	Your guild did not build a tower before Civil Unrest: Velika began.
 203	SMT_CITYWAR_BASE_FAIL_AREA	You cannot build a guild tower here.
-203	SMT_CITYWAR_BASE_FAIL_DURING_CITYWAR	Guild towers must be built before Civil Unrest: Colossal Ruins begins.
+203	SMT_CITYWAR_BASE_FAIL_DURING_CITYWAR	Guild towers must be built before Civil Unrest: Velika begins.
 203	SMT_CITYWAR_BASE_FAIL_GROUNDALT	Guild towers must be built within 3m of flat ground.
 203	SMT_CITYWAR_BASE_FAIL_MAXALT	Guild towers cannot be built at high elevations.
 203	SMT_CITYWAR_BASE_FAIL_MINALT	Guild towers cannot be built at low elevations.
@@ -683,23 +683,23 @@
 203	SMT_CITYWAR_BASE_WARNING_UNDERATTACK	Your guild tower is under attack!
 202	SMT_CITYWAR_BOSS_APPEAR	<font color = '#fcb7ff'>{npcname}</font>, {title} has spawned.
 202	SMT_CITYWAR_BOSS_DEATH	{name} from <font color = '#fcb7ff'>{guild}</font> killed <font color = '#fcb7ff'>{npcname}</font>.
-202	SMT_CITYWAR_END_FREE	<font color = '#e4e4e4'>Civil Unrest: Colossal Ruins has ended.</font><BR><font color = '#f7ff7a'>{cityname} is free.</font>
-202	SMT_CITYWAR_END_LAST_BASE	<font color = '#e4e4e4'>Civil Unrest: Colossal Ruins has ended.</font><BR><font color = '#f7ff7a'>{guild} won!</font>
+202	SMT_CITYWAR_END_FREE	<font color = '#e4e4e4'>Civil Unrest: Velika has ended.</font><BR><font color = '#f7ff7a'>{cityname} is free.</font>
+202	SMT_CITYWAR_END_LAST_BASE	<font color = '#e4e4e4'>Civil Unrest: Velika has ended.</font><BR><font color = '#f7ff7a'>{guild} won!</font>
 202	SMT_CITYWAR_END_REMOVE_BASE	Guild towers are being automatically removed.
-203	SMT_CITYWAR_FAIL_ENTER_CLOSE	Civil Unrest: Colossal Ruins is inactive at this time.
-203	SMT_CITYWAR_FAIL_ENTER_OUTLAW	You cannot enter Civil Unrest: Colossal Ruins when Outlaw Declaration is on.
-203	SMT_CITYWAR_FAIL_ENTER_BAN	Your guild cannot participate in Civil Unrest: Colossal Ruins at this time. Please contact Customer Support.
-203	SMT_CITYWAR_FAIL_ENTER_LEVEL	You must be level 11+ to participate in Civil Unrest: Colossal Ruins.
-203	SMT_CITYWAR_FAIL_ENTER_INTERESTED_ONLY	Your guild must have built a guild tower before Civil Unrest: Colossal Ruins started to participate.
+203	SMT_CITYWAR_FAIL_ENTER_CLOSE	Civil Unrest: Velika is inactive at this time.
+203	SMT_CITYWAR_FAIL_ENTER_OUTLAW	You cannot enter Civil Unrest: Velika when Outlaw Declaration is on.
+203	SMT_CITYWAR_FAIL_ENTER_BAN	Your guild cannot participate in Civil Unrest: Velika at this time. Please contact Customer Support.
+203	SMT_CITYWAR_FAIL_ENTER_LEVEL	You must be level 11+ to participate in Civil Unrest: Velika.
+203	SMT_CITYWAR_FAIL_ENTER_INTERESTED_ONLY	Your guild must have built a guild tower before Civil Unrest: Velika started to participate.
 203	SMT_CITYWAR_FAIL_ENTER_MAX	The channel is full.
-203	SMT_CITYWAR_FAIL_ENTER_RETIRE	If your guild tower is destroyed during Civil Unrest: Colossal Ruins, you cannot re-enter.
+203	SMT_CITYWAR_FAIL_ENTER_RETIRE	If your guild tower is destroyed during Civil Unrest: Velika, you cannot re-enter.
 203	SMT_CITYWAR_ANNOUNCE_NOENTER	Available starting from {time}.
 201	SMT_CITYWAR_GUILD_KILL	<font color = '#40fb40'>{Name1}</font> <font color = '#c8c8b6'> has defeated </font> <font color = '#ee1c24'>{GuildName2} {Name2}</font> <font color = '#c8c8b6'>.</font>
 201	SMT_CITYWAR_GUILD_DEATH	<font color = '#ee1c24'>{GuildName2} {Name2}</font> <font color = '#c8c8b6'> has killed </font> <font color = '#40fb40'>{Name1}</font> <font color = '#c8c8b6'>.</font>
 201	SMT_CITYWAR_REWARD_RANKEXP	As a reward for rank <font color = '#01ff96'>{WARRANK}</font> in Civil Unrest, your guild received <font color = '#01ff96'>+{EXPPOINT}</font> Guild XP.
-201	SMT_CITYWAR_REWARD_CONTRIBUTION	You have earned <font color = '#01ff96'>+{CPOINT}</font> for participating in Civil Unrest: Colossal Ruins.
+201	SMT_CITYWAR_REWARD_CONTRIBUTION	You have earned <font color = '#01ff96'>+{CPOINT}</font> for participating in Civil Unrest: Velika.
 202	SMT_CITYWAR_OPTIMIZE_OPTION	Your system settings have been optimized. Leaving this zone will revert your settings to normal. This option can be disabled in Options - Game.
-202	SMT_CITYWAR_START	<font color = '#ffee92'>Civil Unrest: Colossal Ruins has started.</font>
+202	SMT_CITYWAR_START	<font color = '#ffee92'>Civil Unrest: Velika has started.</font>
 202	SMT_CITYWAR_NONPK_AREA	You cannot use Outlaw Declaration in this zone.
 203	SMT_CLEAR_CURSE_FAILED	You failed to remove the curse.
 201	SMT_CLEAR_CURSE_SUCCESS	You sense the curse fading.
@@ -911,7 +911,7 @@
 203	SMT_FREE_SERVICE_CANT_ACTION	This action is not available to that account type.
 201	SMT_FREE_SERVICE_IS_OVER	Please purchase and subscribe to continue your adventures!
 203	SMT_FREE_SERVICE_LIMIT_ACTION	This account type can't access this area.
-201	SMT_FREE_SERVICE_LITTLE_TIME_LEFT	Level {Level} is the maximum level for this trial account. Your play time with this character will end in {minute} minute{@select:{minute}/s//s}. Please try another character or purchase TERA at shop.tera-europe.com.
+201	SMT_FREE_SERVICE_LITTLE_TIME_LEFT	Level {Level} is the maximum level for this trial account. Your play time with this character will end in {minute} minute{@select:{minute}/s//s}. Please try another character or purchase MT Dream at shop.tera-europe.com.
 201	SMT_FRIENDSHIP_GETTING_POINT_MSG	{point} Friendship bonds gained by {type}
 201	SMT_FRIEND_ADD_SUCCESS	Added {UserName} to your friends list.
 203	SMT_FRIEND_ALREADY_EXIST	That player is already on your friends list, or your friend request is pending.
@@ -1192,7 +1192,6 @@
 203	SMT_GUILD_WAR_TRACE_OPPONENT_GUILD_NOT_FOUND	There are no opposing guild members to locate.
 203	SMT_GUILD_WITHRAW_WARNING_MESSAGE	Exarchs, commanders, and echelons cannot be expelled from their guilds.
 201	SMT_HIT_LOVE_FIREWORK	{UserName} loves you!
-201	SMT_HIT_SMILE_FIREWORK	{UserName} is happy to see you.
 203	SMT_HOLD_PLAYER_CANT_LEAVE_WORLD	You cannot exit the game while taking damage.
 203	SMT_HOLD_PLAYER_CANT_USE_ITEM	You cannot use an item while taking damage.
 201	SMT_HUNTINGZONE_EVENT_ANNOUNCE	There are active events. For more information visit https://mtdream.net.
@@ -1209,10 +1208,10 @@
 201	SMT_INGAMESTORE_BUY_MONEY_PRODUCT_POPUP_UNKNOWN_ERROR_MESSAGE	Error. Try again later. [Error code:{ErrorText}]
 201	SMT_INGAMESTORE_BUY_TCAT_PRODUCT	You have registered {Count} {ItemDesc} for {EachPrice@tcat} Astrum Coin each.
 203	SMT_INGAMESTORE_CHECKING_BALANCE_FAILED_MESSAGE	Unable to check balance. Please try again later. [Error code:{ErrorText}]
-203	SMT_INGAMESTORE_CLOSED	We are unable to provide access to TERA Shop at the moment.
+203	SMT_INGAMESTORE_CLOSED	We are unable to provide access to MT Dream Shop at the moment.
 203	SMT_INGAMESTORE_ERROR	Cannot purchase products.
-203	SMT_INGAMESTORE_LOWMONEY	Not enough TERA Thalers for that purchase. Please buy additional TERA Thalers at the website.
-201	SMT_INGAMESTORE_OPEN_CHARGE_PAGE	Buy TERA Thalers
+203	SMT_INGAMESTORE_LOWMONEY	Not enough MT Dream Thalers for that purchase. Please buy additional MT Dream Thalers at the website.
+201	SMT_INGAMESTORE_OPEN_CHARGE_PAGE	Buy MT Dream Thalers
 201	SMT_INGAMESTORE_OPEN_ITEM_CLAIM	Open Item Claim
 203	SMT_INGAMESTORE_TCAT_BUYALERT	Purchased items are placed in the character's <font color = '#FFFFFF'>inventory</font>. <br><font color = '#FF0000'>Items bought using Astrum Coin can't be exchanged for Astrum Coin.</font>
 201	SMT_INGAMESTORE_TERA_SHOP	TERA Shop
@@ -1921,8 +1920,6 @@
 203	SMT_THERE_ARE_NO_ENCHANT_SCROLLS_TO_RECOMMEND	No recommendable enchanting agent (alkahest) is available.
 203	SMT_THIS_SERVER_ENTER_ONLY_FLATSUMSYSTEM	Only subscription users can use this server.
 203	SMT_THIS_SERVER_NOT_GIVE_GODGIFT	You cannot use Item Claim on this server.
-201	SMT_THROW_LOVE_FIREWORK	You love {UserName}!
-201	SMT_THROW_SMILE_FIREWORK	You've happily hit {UserName}!
 201	SMT_TOGGLE_UI	Bring back the UI with [Ctrl + Z].
 201	SMT_TOGGLE_UI_FPMODE	Ctrl + Z to restore the UI.
 201	SMT_TOGGLE_UI_TPMODE	Ctrl + Z to hide the UI.
@@ -2171,7 +2168,7 @@
 203	SMT_CANNOT_TRADE_PROMOTION_ITEM	Items from PC Café Log-in Event cannot be traded, sold, or put in guild banks.
 203	SMT_CANNOT_USE_SERVICE	Service is currently unavailable.
 203	SMT_STOP_USE_SERVICE	The service is not available now.
-203	SMT_CANNOT_USE_PREMIUM_SERVICE	No elite status available. Check TERA Shop.
+203	SMT_CANNOT_USE_PREMIUM_SERVICE	No elite status available. Check MT Dream Shop.
 203	SMT_PROMOTION_OFF_BY_ADMIN	Cannot access PC Café Event now.
 203	SMT_CANNOT_OPEN_TASK_DUNGEON_WINDOW	You cannot enter the Ace Dungeon right now.
 203	SMT_OS_CANNOT_SUPPORT_AWESOMIUM	This feature is not supported in Windows 2003 or Windows XP.
@@ -2180,7 +2177,7 @@
 201	SMT_VIPSYSTEM_GET_TOKEN	You received {Amount} reward credits.
 302	SMT_VIPSYSTEM_CANT_ENTER_DUNGEON	The Crucible of Fame is unavailable.
 302	SMT_VIPSHOP_CANT_BUYITEM_SOLDOUT	You've already purchased this item.
-302	SMT_VIPSYSTEM_CANT_OPEN_STORE	The TERA Rewards Emporium is temporarily unavailable.
+302	SMT_VIPSYSTEM_CANT_OPEN_STORE	The MT Dream Rewards Emporium is temporarily unavailable.
 201	SMT_DUNGEON_FORCE_RESTORE_MSG	The quest has been reset to a suitable point.
 203	SMT_CITYWAR_DEAD_MESSAGE	<font color = '#cccccc'>You will be resurrected at the selected location below in <br><font color = '#ff0000'>{ReviveSec} seconds.</font>.
 202	SMT_GQUEST_URGENT_NOTIFY	<font color = '#fcb7ff'>[Rally] {questName}</font> is now available for your guild. <font color = '#fcb7ff'>{npcName}</font> will appear in <font color = '#fcb7ff'>{zoneName} (Channel 1)</font> soon.
@@ -2230,7 +2227,7 @@
 302	SMT_CANNOT_FIX_VEHICLE	It is full.
 302	SMT_CANNOT_ENTER_DUNGEON_PHASE	You cannot enter the dungeon because your current phase is too high.
 302	SMT_CURRENT_DUNGEON_PHASE	Cleared phase {CurrentPhaseLevel}.
-302	SMT_CANNOT_ENTER_TO_ONGOING_DUNGEON	You cannot enter the dungeon while the raid is in combat.
+302	SMT_CANNOT_ENTER_TO_ONGOING_DUNGEON	You cannot enter the dungeon while the party is in combat.
 302	SMT_SKILL_CANNOT_TRANSFORM_TO_TRANSFORMER	Cannot be used on a transformed target.
 302	SMT_STYLESHOP_CANNOT_USE_WHILE_TRANSFORMING	Dressing Room is not available during transformation.
 203	SMT_CANT_USE_ITEM_NOCTAN	Already affected by a more powerful effect.
@@ -2240,13 +2237,13 @@
 302	SMT_GMEVENT_INVALID_LEVEL	Your level is too low.
 302	SMT_GMEVENT_ALREADY_START	TERA Super Quiz Bowl has already started.
 302	SMT_GMEVENT_FULL_USER	TERA Super Quiz Bowl is full. Try again later.
-302	SMT_GMEVENT_DONT_USE_SKILL	You cannot use skills in TERA Super Quiz Bowl.
+302	SMT_GMEVENT_DONT_USE_SKILL	You cannot use skills in MT Dream Super Quiz Bowl.
 302	SMT_GMEVENT_TOO_MUCH_JOIN	You cannot participate anymore today.
 302	SMT_GMEVENT_LEAVE_EVENT	You left the event.
-302	SMT_GMEVENT_CANNOT_USE_ITEM_IN_STADIUM	Cannot be used during TERA Super Quiz Bowl.
+302	SMT_GMEVENT_CANNOT_USE_ITEM_IN_STADIUM	Cannot be used during MT Dream Super Quiz Bowl.
 302	SMT_GMEVENT_OXQUIX_RECV_SPECIAL_REWARD	You received a special prize. Check your parcel post.
 302	SMT_GMEVENT_CANNOT_ACTION_IN_STADIUM	Cannot be used during the event.
-302	SMT_GMEVENT_INVALID_CONTINENT_FOR_SUMMON	You cannot invite a player in battlegrounds, dungeons, and instances to join TERA Super Quiz Bowl.
+302	SMT_GMEVENT_INVALID_CONTINENT_FOR_SUMMON	You cannot invite a player in battlegrounds, dungeons, and instances to join MT Dream Super Quiz Bowl.
 302	SMT_GMEVENT_RESERVATION_REPE_NONE	[Consolation Game] The consolation game will start after this question.
 302	SMT_GMEVENT_RESERVATION_FAILED_REPE_NONE	[No Consolation Game] There will be no consolation game.
 302	SMT_GMEVENT_RESERVATION_FAILED_REPE_LAST_LEVEL	[No Consolation Game] This is the last question.
@@ -2356,7 +2353,7 @@
 201	SMT_FISHING_MINIGAME_HOWTO	Press {ActionKey} key to pull in the fish.
 201	SMT_FISHING_REWARD	{UserName} has fished {ItemCount} {ItemName}.
 203	SMT_DELIVERY_INFOR_RESET	Delivery list has been refreshed due to detail adjustment. 
-202	SMT_GOLDENBELL_MESSAGE	<img src='img://__Icon_Equipments.Acc_325_Tex' width='40' height='40' vspace='-15'/>{UserName} gave you a Server Buff! <font color = '#f7ff7a'>{AbnormalityName}</font>
+201	SMT_GOLDENBELL_MESSAGE	<img src='img://__Icon_Equipments.Acc_325_Tex' width='40' height='40' vspace='-15'/>{UserName} gave you a Server Buff! <font color = '#f7ff7a'>{AbnormalityName}</font>
 202	SMT_FIELDBOSS_APPEAR	<font color = '#ff3300'>{npcname}</font>, {RegionName} has spawned.
 201	SMT_FIELDBOSS_DIE_GUILD	<font color = '#f6f493'>{userName}</font> from <font color = '#f6f493'>{guildName}</font> killed <font color = '#ff3300'>{npcname}</font>.
 201	SMT_FIELDBOSS_DIE_NOGUILD	<font color = '#f6f493'>{userName}</font> killed <font color = '#ff3300'>{npcname}</font>.
@@ -2456,6 +2453,9 @@
 302	SMT_TBA_CHATMSG_PRE_START	Entering the battleground in {sec} sec(s).
 201	SMT_TBA_GACHA_RESULT	Opened {BoxCount} {GachaBoxName} and obtained {ResultCount} {GachaResultItemName}.
 201	SMT_TBA_RUNE_SAVE_CONFIRM	Changes to the Rune Page [{RunePageName}] have been saved.
-201	SMT_TBA_PLAYTIME_START	Welcome to the world of TERA BATTLE ARENA.
+201	SMT_TBA_PLAYTIME_START	Welcome to the world of MT Dream BATTLE ARENA.
 203	SMT_TBA_CHAT_QNA_NOTICE_LINK	<font color = '#FFFF00'>Click "Go"</font>
 203	SMT_TBA_CHAT_QNA_NOTICE	Purchasing gold or items from third-party sources supports fraud and account theft, and may result in an account ban for all parties involved in the transaction.
+201	SMT_THROW_LOVE_FIREWORK	You've hit {UserName} with a snowball!
+201	SMT_HIT_SMILE_FIREWORK	{UserName} hit you with a water balloon.
+201	SMT_THROW_SMILE_FIREWORK	You've hit {UserName} with a water balloon!
